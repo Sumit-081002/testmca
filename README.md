@@ -17,5 +17,7 @@
 
 ```bash
 >> git branch  # check the branch
->> 
+>> git checkout -b branch_name # create new branch
+>> git checkout branch_name  # switch to given branch
 ```
+
