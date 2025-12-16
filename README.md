@@ -12,3 +12,10 @@
 >> git commit -m "add a message"
 >> git push origin main
 ```
+
+# create a branch
+
+```bash
+>> git branch  # check the branch
+>> 
+```
